@@ -1,0 +1,28 @@
+.wrapper_projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.project {
+  margin-bottom: 80px;
+  max-width: 380px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.project a {
+  text-decoration: none;
+}
+
+.project_img {
+  width: 100%;
+  margin-bottom: 35px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.project_text {
+
+  color: #1f0c05;
+}

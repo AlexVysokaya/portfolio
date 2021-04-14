@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3554477c.chunk.css",
+    "main.js": "/portfolio/static/js/main.ea33bae4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ea33bae4.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e4d5bb7a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e4d5bb7a.js.map",
+    "static/js/2.688c4065.chunk.js": "/portfolio/static/js/2.688c4065.chunk.js",
+    "static/js/2.688c4065.chunk.js.map": "/portfolio/static/js/2.688c4065.chunk.js.map",
+    "static/js/3.28878b22.chunk.js": "/portfolio/static/js/3.28878b22.chunk.js",
+    "static/js/3.28878b22.chunk.js.map": "/portfolio/static/js/3.28878b22.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.3554477c.chunk.css.map": "/portfolio/static/css/main.3554477c.chunk.css.map",
+    "static/js/2.688c4065.chunk.js.LICENSE.txt": "/portfolio/static/js/2.688c4065.chunk.js.LICENSE.txt",
+    "static/media/DSC_6790.d3f33062.jpg": "/portfolio/static/media/DSC_6790.d3f33062.jpg",
+    "static/media/logoMail.ff364211.png": "/portfolio/static/media/logoMail.ff364211.png",
+    "static/media/logoTelegramm.02c66337.png": "/portfolio/static/media/logoTelegramm.02c66337.png",
+    "static/media/trafficLights.cb2fc202.jpg": "/portfolio/static/media/trafficLights.cb2fc202.jpg",
+    "static/media/weather.8e237a9b.jpg": "/portfolio/static/media/weather.8e237a9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4d5bb7a.js",
+    "static/js/2.688c4065.chunk.js",
+    "static/css/main.3554477c.chunk.css",
+    "static/js/main.ea33bae4.chunk.js"
+  ]
+}

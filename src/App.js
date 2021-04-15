@@ -11,7 +11,7 @@ function App() {
         <div className={style.expirience}>
           <div className={style.header}>Expirience</div>
           <Expirience />
-          <div className={style.header}>Projects</div>
+          <div className={style.header}>My projects</div>
           <Projects/>
         </div>
       </div>

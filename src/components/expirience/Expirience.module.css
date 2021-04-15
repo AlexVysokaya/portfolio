@@ -1,0 +1,20 @@
+.expirience_info {
+  display: flex;
+  flex-direction: column;
+}
+
+.expirience_information {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 60px;
+}
+
+.expirience_header {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.expirience_description {
+  width: 50%;
+  font-size: large;
+}
